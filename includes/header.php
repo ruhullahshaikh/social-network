@@ -2,6 +2,7 @@
 include "connection.php";
 include "../functions/functions.php";
 ?> 
+<link rel="shortcut icon" href="../images/$upload_image" type="image/x-icon">
 <nav class="navbar navbar-default">
 	  <div class="container-fluid">
 	    <div class="navbar-header">

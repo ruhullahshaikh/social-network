@@ -242,7 +242,7 @@ else{ ?>
 					</div>
 				</div><br>
 				<a href='single.php?post_id=$post_id' style='float:right;'><button class='btn btn-success'>View</button></a>
-				<a href='functions/delete_post.php?post_id=$post_id' style='float:right;'><button class='btn btn-danger'>Delete</button></a>
+				<a href='../functions/delete_post.php?post_id=$post_id' style='float:right;'><button class='btn btn-danger'>Delete</button></a>
 			</div><br/><br/>
 			";
 
@@ -270,7 +270,7 @@ else{ ?>
 					</div>
 				</div><br>
 				<a href='single.php?post_id=$post_id' style='float:right;'><button class='btn btn-success'>View</button></a>
-				<a href='functions/delete_post.php?post_id=$post_id' style='float:right;'><button class='btn btn-danger'>Delete</button></a>
+				<a href='../functions/delete_post.php?post_id=$post_id' style='float:right;'><button class='btn btn-danger'>Delete</button></a>
 			</div><br/><br/>
 			";
 
@@ -330,7 +330,7 @@ else{ ?>
 			echo"
 				<a href='single.php?post_id=$post_id' style='float:right;'><button class='btn btn-success'>View</button></a>
 				<a href='edit_post.php?post_id=$post_id' style='float:right;'><button  class='btn btn-info'>Edit</button></a>
-				<a href='functions/delete_post.php?post_id=$post_id' style='float:right;'><button class='btn btn-danger'>Delete</button></a>
+				<a href='../functions/delete_post.php?post_id=$post_id' style='float:right;'><button class='btn btn-danger'>Delete</button></a>
 			</div><br/><br/><br/>
 			";
 			}
