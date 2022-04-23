@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Coding Cafe Login And Sign Up</title>
+	<title>Social Network Login And Sign Up</title>
 	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -60,22 +60,22 @@
 	<div class="row">
 		<div class="col-sm-12">
 			<div class="well">
-				<center><h1 style="color: white;"><strong>Coding Cafe</strong></h1></center>
+				<center><h1 style="color: white;"><strong>Social Network</strong></h1></center>
 			</div>
 		</div>
 	</div>
 		<div class="row">
 			<div class="col-sm-6" style="left:0.5%;">
-				<img src="../images/codingcafe.jpeg" class="img-rounded" title="Coding Cafe" width="650px" height="565px">
+				<img src="../images/codingcafe.jpeg" class="img-rounded" title="Social Network" width="650px" height="565px">
 				<div id="centered1" class="centered"><h3 style="color: white;"><span class="glyphicon glyphicon-search"></span>&nbsp&nbsp<strong>Follow Your Interests.</strong></h3></div>
 				<div id="centered2" class="centered"><h3 style="color: white;"><span class="glyphicon glyphicon-user"></span>&nbsp&nbsp<strong>Hear what people are talking about.</strong></h3></div>
 				<div id="centered3" class="centered"><h3 style="color: white;"><span class="glyphicon glyphicon-envelope"></span>&nbsp&nbsp<strong>Join the conversation.</strong></h3></div>
 			</div>
 			<div class="col-sm-6" style="left: 8%;">
 				
-				<img src="../images/codingcafelogo.png" class="img-rounded" title="Coding Cafe" width="80px" height="80px">
+				<img src="../images/codingcafelogo.png" class="img-rounded" title="Social Network" width="80px" height="80px">
 				<h2><strong>See what's happening in <br> the world right now</strong></h2><br><br>
-				<h4><strong>Join Coding Cafe Today.</strong></h4>
+				<h4><strong>Join Social Network Today.</strong></h4>
 				<form method="post" action="">
 					<button id="signup" class="btn btn-info btn-lg" name="signup">Sign up</button><br><br>
 					<?php

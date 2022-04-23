@@ -59,7 +59,7 @@ if(!isset($_SESSION['user_email'])){
 	<div class="row">
 		<div class="col-sm-12">
 			<div class="well">
-				<center><h1 style="color: white;"><strong>Coding Cafe</strong></h1></center>
+				<center><h1 style="color: white;"><strong>Social Network</strong></h1></center>
 			</div>
 		</div>
 	</div>
