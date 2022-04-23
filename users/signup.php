@@ -69,12 +69,12 @@
 					    <span class="input-group-addon"><i class="	glyphicon glyphicon-chevron-down"></i></span>
 			            <select class="form-control" name="u_country" required="required">
 							<option disabled>Select a Country</option>
-							<option>Pakistan</option>
-							<option>United States of America</option>
 							<option>India</option>
+							<option>United States of America</option>	
 							<option>Japan</option>
 							<option>UK</option>
 							<option>France</option>
+							<option>Other</option>
 						</select>
 					</div><br>
 					<div class="input-group">
